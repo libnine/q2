@@ -1,8 +1,8 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import 'bootstrap/dist/css/bootstrap.min.css'
 import App from '../components/App'
 import SEO from '../components/seo/seo'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import '../style/main.scss'
 
 export default function() {

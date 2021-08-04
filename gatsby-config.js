@@ -10,6 +10,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-offline`,
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -35,6 +36,6 @@ module.exports = {
         display: `standalone`,
         icon: 'src/images/favicon.png',
       },
-    },
+    }
   ],
 };
