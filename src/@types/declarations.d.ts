@@ -1,0 +1,7 @@
+declare module 'gatsby-image'
+declare module 'react'
+declare module 'react-bootstrap'
+declare module 'react-helmet'
+declare module 'react-reveal/Fade'
+declare module 'react-scroll'
+declare module 'react-tilt'
